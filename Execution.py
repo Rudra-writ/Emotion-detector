@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 13 02:36:16 2021
-
-@author: 91629
-"""
-
 
 from keras.models import load_model
 import cv2
