@@ -1,4 +1,4 @@
-# Emotion-detector
+# Real time Emotion-detector
 A software to detect emotions based on facial expression using CNN and OpenCV
 
 The python files to be executed in the following sequences --> Preprocessing_data.py ---> Convolutional neural Network.py ----> Execution.py
